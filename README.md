@@ -1,35 +1,28 @@
-# A.S.D. Progetto Ciclismo Rodengo Saiano - Percorsi GPX 🚴‍♂️
+# A.S.D. Progetto Ciclismo Rodengo Saiano - Percorsi GPX e Mappe 🚴‍♂️
 
 Benvenuti nel repository ufficiale dei percorsi di gara organizzati dalla **A.S.D. Progetto Ciclismo Rodengo Saiano**. 
 
-Questo spazio contiene i file `.gpx` aggiornati e definitivi dei tracciati delle nostre competizioni. Le tracce presenti in questo repository sono considerate stabili e valide anche per le edizioni successive delle gare.
+Questo spazio contiene i tracciati `.gpx` definitivi delle nostre competizioni e le mappe informative in formato PDF, suddivise per anno. I percorsi GPX presenti in questo repository sono stabili e validi per tutte le edizioni.
 
-## 📍 I Percorsi
+## 📍 Le Gare
 
-Attualmente il repository include i tracciati per le seguenti manifestazioni storiche, che si tengono nel comune di **Monticelli Brusati (BS)**:
+Le nostre manifestazioni storiche si tengono nel comune di **Monticelli Brusati (BS)** e comprendono:
 
-### 1. Memorial Battista Boniotti
-* **Categoria:** Esordienti (1° e 2° anno)
-* **File:** [`percorsi/memorial-battista-boniotti-esordienti.gpx`](./percorsi/memorial-battista-boniotti-esordienti.gpx)
-* **Descrizione:** Gara unica riservata alla categoria Esordienti. Il file GPX contiene il tracciato del circuito di gara.
+* **Memorial Battista Boniotti:** Gara unica riservata alla categoria Esordienti (1° e 2° anno).
+* **Trofeo Sponsor Progetto Ciclismo:** Gara riservata alla categoria Allievi.
 
-### 2. Trofeo Sponsor Progetto Ciclismo
-* **Categoria:** Allievi
-* **File:** [`percorsi/trofeo-sponsor-progetto-ciclismo-allievi.gpx`](./percorsi/trofeo-sponsor-progetto-ciclismo-allievi.gpx)
-* **Descrizione:** Tracciato dedicato alla categoria Allievi. 
+## 📁 Struttura del Repository e Download
 
-> **Nota sui tempi:** I file GPX qui caricati contengono esclusivamente le tracce geografiche (coordinate e altimetria) e sono privi di dati temporali storici (`no time`), rendendoli perfetti per essere caricati sui ciclocomputer o app di navigazione senza falsare le statistiche personali.
+Tutto il materiale è organizzato in cartelle per facilitare la consultazione e il download:
 
-## 📲 Come utilizzare i file
+* 🚴‍♂️ ➡️ [**Cartella `/percorsi`**](./percorsi/): Qui troverai i file `.gpx` ufficiali di entrambe le gare. Le tracce contengono esclusivamente i dati geografici e altimetrici, senza riferimenti temporali (`no time`), per essere caricate facilmente su qualsiasi ciclocomputer senza falsare le proprie statistiche.
+* 🗺️ ➡️ [**Cartella `/mappe/2026`**](./mappe/2026/): Qui sono disponibili i file PDF con le piantine, le altimetrie grafiche e i dettagli logistici specifici per l'edizione 2026.
 
-Puoi scaricare i file `.gpx` e importarli nei tuoi dispositivi o piattaforme di allenamento preferite:
+## 📲 Come utilizzare i file GPX
+
+Puoi scaricare i file `.gpx` dalla cartella dei percorsi e importarli nei tuoi dispositivi o piattaforme di allenamento preferite:
 - **Ciclocomputer:** Garmin (tramite Garmin Connect), Wahoo, Bryton, ecc.
 - **App per Smartphone:** Strava, Komoot, RideWithGPS, ecc.
-
-**Per scaricare un percorso:**
-1. Clicca sul file desiderato all'interno della cartella `percorsi/`.
-2. Clicca sul pulsante **"Raw"** o sull'icona di download (Download raw file).
-3. Salva il file sul tuo computer o smartphone.
 
 ## 🌐 Maggiori Informazioni
 
